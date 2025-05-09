@@ -1,6 +1,4 @@
 "use strict";
-let age = 20;
-if (age < 50)
-    age += 10;
-console.log(age);
+let numbers = [1, 2, 3];
+numbers.forEach(n => n.toString);
 //# sourceMappingURL=index.js.map
